@@ -21,5 +21,5 @@
 - [Etude sur postgrsql](https://siamsell.github.io/rnc/)
 
 ## 📫 Me contacter
-- LinkedIn : [Mon profil LinkedIn](https://siamsell.github.io/Academy-Platform/)
+- LinkedIn : [Mon profil LinkedIn](www.linkedin.com/in/sellami-siham-a5b092333)
 - Email : sihamsella9@gmail.com
