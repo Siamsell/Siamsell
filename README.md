@@ -18,7 +18,7 @@
 - [Etude pfe](https://github.com/Siamsell/medicale_IMG-with-deepLearning_model-gan)
 - [site pfe ](https://medical-image-gan.netlify.app/)
 - [Academy-platforme](https://siamsell.github.io/Academy-Platform/)
-  -[Etude sur postgrsql](https://siamsell.github.io/rnc/)
+- [Etude sur postgrsql](https://siamsell.github.io/rnc/)
 
 ## 📫 Me contacter
 - LinkedIn : [Mon profil LinkedIn](https://siamsell.github.io/Academy-Platform/)
