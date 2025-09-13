@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Siamsell/Siamsell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Salut, moi c'est Siham !
 
-Here are some ideas to get you started:
+💻 Développeur Web Junior  
+🚀 Passionné par la création de sites et d'applications web  
+🌱 Actuellement en train d'apprendre : React, flutter,python 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mes compétences
+- HTML, CSS, JavaScript, java
+- React, Node.js, Express.js
+- MySQL,postgrsql,sqllite
+- Git & GitHub
+
+## Projets récents
+- [Gestion des demandes d'achat - ANABIB](https://github.com/TON_USERNAME/anabib-gestion-achats)
+- [Site web personnel](https://github.com/TON_USERNAME/portfolio)
+
+## 📫 Me contacter
+- LinkedIn : [Mon profil LinkedIn](https://www.linkedin.com/in/tonprofil)
+- Email : sihamsella9@gmail.com
