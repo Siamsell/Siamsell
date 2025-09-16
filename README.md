@@ -14,7 +14,7 @@
 
 ## Projets récents
 - [Gestion des demandes d'achat - ANABIB]
-- [Site web personnel](https://siamsell.github.io/portfilio/)
+- [Site web personnel](https://siamsell.github.io/portfolio/)
 - [Etude pfe](https://github.com/Siamsell/medicale_IMG-with-deepLearning_model-gan)
 - [site pfe ](https://medical-image-gan.netlify.app/)
 - [Academy-platforme](https://siamsell.github.io/Academy-Platform/)
