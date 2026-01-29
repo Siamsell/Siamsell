@@ -1,6 +1,6 @@
 ## Hi there
 
-# Hi, I’m Siham
+# I’m Siham
 
 Junior Web Developer  
 Passionate about building websites and web applications  
