@@ -1,26 +1,63 @@
-## Hi there 👋
+## Hi there
 
-#  Salut, moi c'est Siham 
+# Hi, I’m Siham
 
-💻 Développeur Web Junior  
- Passionné par la création de sites et d'applications web  
-Actuellement en train d'apprendre : React, flutter,python 💛
+Junior Web Developer  
+Passionate about building websites and web applications  
+Currently learning: React, Flutter, Python
 
-## Mes compétences
-- HTML, CSS, JavaScript, java
+## Skills
+- HTML, CSS, JavaScript, Java
 - React, Node.js, Express.js
-- MySQL,postgrsql,sqllite
-- Git & GitHub
+- MySQL, PostgreSQL, SQLite
+- Git and GitHub
+
+## Recent Projects
+- Purchase Request Management System – ANABIB
+- Personal website: https://siamsell.github.io/portfolio/
+- Final Year Project – Medical Image (GAN, Deep Learning):  
+  https://github.com/Siamsell/medicale_IMG-with-deepLearning_model-gan
+- FYP Website – Medical Image GAN:  
+  https://medical-image-gan.netlify.app/
+- Academy Platform:  
+  https://siamsell.github.io/Academy-Platform/
+- PostgreSQL Study Project:  
+  https://siamsell.github.io/rnc/
+- Ramadan Website:  
+  https://ramadan-pied.vercel.app/
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/sellami-siham-a5b092333  
+Email: sihamsella9@gmail.com
+
+---
+
+# Salut, moi c’est Siham
+
+Développeuse Web Junior  
+Passionnée par la création de sites et d’applications web  
+Actuellement en train d’apprendre : React, Flutter, Python
+
+## Compétences
+- HTML, CSS, JavaScript, Java
+- React, Node.js, Express.js
+- MySQL, PostgreSQL, SQLite
+- Git et GitHub
 
 ## Projets récents
-- [Gestion des demandes d'achat - ANABIB]
-- [Site web personnel](https://siamsell.github.io/portfolio/)
-- [Etude pfe](https://github.com/Siamsell/medicale_IMG-with-deepLearning_model-gan)
-- [site pfe ](https://medical-image-gan.netlify.app/)
-- [Academy-platforme](https://siamsell.github.io/Academy-Platform/)
-- [Etude sur postgrsql](https://siamsell.github.io/rnc/)
-- [site web ramadan](https://ramadan-pied.vercel.app/)
-   https://ramadan-pied.vercel.app/
-## 📫 Me contacter
-- LinkedIn : [Mon profil LinkedIn](www.linkedin.com/in/sellami-siham-a5b092333)
-- Email : sihamsella9@gmail.com
+- Gestion des demandes d’achat – ANABIB
+- Site web personnel : https://siamsell.github.io/portfolio/
+- Étude PFE – Medical Image (GAN, Deep Learning) :  
+  https://github.com/Siamsell/medicale_IMG-with-deepLearning_model-gan
+- Site PFE – Medical Image GAN :  
+  https://medical-image-gan.netlify.app/
+- Academy Platform :  
+  https://siamsell.github.io/Academy-Platform/
+- Étude sur PostgreSQL :  
+  https://siamsell.github.io/rnc/
+- Site web Ramadan :  
+  https://ramadan-pied.vercel.app/
+
+## Contact
+LinkedIn : https://www.linkedin.com/in/sellami-siham-a5b092333  
+Email : sihamsella9@gmail.com
