@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-# 👋 Salut, moi c'est Siham !
+#  Salut, moi c'est Siham 
 
 💻 Développeur Web Junior  
-🚀 Passionné par la création de sites et d'applications web  
-🌱 Actuellement en train d'apprendre : React, flutter,python 
+ Passionné par la création de sites et d'applications web  
+Actuellement en train d'apprendre : React, flutter,python 💛
 
 ## Mes compétences
 - HTML, CSS, JavaScript, java
