@@ -18,7 +18,7 @@
 
 ## 🇬🇧 English
 
-<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 ### 👩‍💻 About Me
 
@@ -101,54 +101,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Siamsell&theme=tokyonight&no-frame=true&no-bg=true&column=6)
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Siamsell/Siamsell/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
----
-
-## 🇫🇷 Français
-
-<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
-
-### 👩‍💻 À propos de moi
-
-- 🎓 Développeuse Web Junior passionnée par la création d'expériences numériques impactantes
-- 🧠 Actuellement en apprentissage : **React**, **Flutter**, **Python**
-- 🤖 Intérêt profond pour l'**IA**, les **modèles GAN** et l'**imagerie médicale**
-- 💡 J'aime transformer des idées complexes en solutions numériques élégantes
-- 📍 Basée en Algérie
-
-<br clear="right"/>
-
-### 🚀 Projets récents
-
-| Projet | Description | Lien |
-|--------|-------------|------|
-| 🏥 **Medical Image GAN** | PFE – Modèle Deep Learning pour la génération d'images médicales via GAN | [![GitHub](https://img.shields.io/badge/Code-black?style=flat-square&logo=github)](https://github.com/Siamsell/medicale_IMG-with-deepLearning_model-gan) [![Live](https://img.shields.io/badge/Live-6EE7F7?style=flat-square&logo=netlify&logoColor=black)](https://medical-image-gan.netlify.app/) |
-| 🛒 **Gestion des achats** | Système de gestion des demandes d'achat – ANABIB | 🏢 Interne |
-| 🎓 **Academy Platform** | Plateforme d'apprentissage en ligne | [![Live](https://img.shields.io/badge/Live-6EE7F7?style=flat-square&logo=github-pages&logoColor=black)](https://siamsell.github.io/Academy-Platform/) |
-| 🗄️ **Étude PostgreSQL** | Projet d'exploration pratique de PostgreSQL | [![Live](https://img.shields.io/badge/Live-6EE7F7?style=flat-square&logo=github-pages&logoColor=black)](https://siamsell.github.io/rnc/) |
-| 🌙 **Site Ramadan** | Site web culturel sur le thème du Ramadan | [![Live](https://img.shields.io/badge/Live-6EE7F7?style=flat-square&logo=vercel&logoColor=black)](https://ramadan-pied.vercel.app/) |
-| 🌐 **Portfolio Personnel** | Mon site web personnel | [![Live](https://img.shields.io/badge/Visiter-6EE7F7?style=flat-square&logo=google-chrome&logoColor=black)](https://siamsell.github.io/portfolio/) |
-
----
 
 ### 📫 Me contacter / Contact Me
 
