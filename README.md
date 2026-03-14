@@ -7,7 +7,7 @@ Passionate about building websites and web applications
 Currently learning: React, Flutter, Python
 
 ## Skills
-- HTML, CSS, JavaScript, Java
+- HTML, CSS, JavaScript, Java, python,pytorch
 - React, Node.js, Express.js
 - MySQL, PostgreSQL, SQLite
 - Git and GitHub
