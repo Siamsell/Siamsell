@@ -64,7 +64,6 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
 
@@ -76,12 +75,12 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| 🏥 **Medical Image GAN** | Final Year Project – Deep Learning model for medical image generation using GANs | [![GitHub](https://img.shields.io/badge/Code-black?style=flat-square&logo=github)](https://github.com/Siamsell/medicale_IMG-with-deepLearning_model-gan) [![Live](https://img.shields.io/badge/Live-6EE7F7?style=flat-square&logo=netlify&logoColor=black)](https://medical-image-gan.netlify.app/) |
-| 🛒 **Purchase Request System** | Management system for ANABIB enterprise | 🏢 Internal |
-| 🎓 **Academy Platform** | Online learning and education platform | [![Live](https://img.shields.io/badge/Live-6EE7F7?style=flat-square&logo=github-pages&logoColor=black)](https://siamsell.github.io/Academy-Platform/) |
-| 🗄️ **PostgreSQL Study** | Hands-on PostgreSQL exploration project | [![Live](https://img.shields.io/badge/Live-6EE7F7?style=flat-square&logo=github-pages&logoColor=black)](https://siamsell.github.io/rnc/) |
-| 🌙 **Ramadan Website** | Cultural themed seasonal web project | [![Live](https://img.shields.io/badge/Live-6EE7F7?style=flat-square&logo=vercel&logoColor=black)](https://ramadan-pied.vercel.app/) |
-| 🌐 **Personal Portfolio** | My personal portfolio website | [![Live](https://img.shields.io/badge/Visit-6EE7F7?style=flat-square&logo=google-chrome&logoColor=black)](https://siamsell.github.io/portfolio/) |
+|  **Medical Image GAN** | Final Year Project – Deep Learning model for medical image generation using GANs | [![GitHub](https://img.shields.io/badge/Code-black?style=flat-square&logo=github)](https://github.com/Siamsell/medicale_IMG-with-deepLearning_model-gan) [![Live](https://img.shields.io/badge/Live-6EE7F7?style=flat-square&logo=netlify&logoColor=black)](https://medical-image-gan.netlify.app/) |
+|  **Purchase Request System** | Management system for ANABIB enterprise | 🏢 Internal |
+|  **Academy Platform** | Online learning and education platform | [![Live](https://img.shields.io/badge/Live-6EE7F7?style=flat-square&logo=github-pages&logoColor=black)](https://siamsell.github.io/Academy-Platform/) |
+|  **PostgreSQL Study** | Hands-on PostgreSQL exploration project | [![Live](https://img.shields.io/badge/Live-6EE7F7?style=flat-square&logo=github-pages&logoColor=black)](https://siamsell.github.io/rnc/) |
+|  **Ramadan Website** | Cultural themed seasonal web project | [![Live](https://img.shields.io/badge/Live-6EE7F7?style=flat-square&logo=vercel&logoColor=black)](https://ramadan-pied.vercel.app/) |
+|  **Personal Portfolio** | My personal portfolio website | [![Live](https://img.shields.io/badge/Visit-6EE7F7?style=flat-square&logo=google-chrome&logoColor=black)](https://siamsell.github.io/portfolio/) |
 
 </div>
 
