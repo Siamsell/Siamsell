@@ -1,10 +1,8 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Siham%20Sellami&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Web%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Siham+%F0%9F%91%8B;Junior+Web+Developer+%F0%9F%9A%80;AI+%26+Deep+Learning+Explorer+%F0%9F%A7%A0;Building+the+future%2C+one+commit+at+a+time+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Siham+%F0%9F%91%8B;Junior+Web+Engineer+%F0%9F%9A%80;AI+%26+Deep+Learning+Explorer+%F0%9F%A7%A0;Building+the+future%2C+one+commit+at+a+time+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
