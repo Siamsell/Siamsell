@@ -17,7 +17,6 @@
 ---
 
 
-<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 ### About Me
 
