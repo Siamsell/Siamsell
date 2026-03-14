@@ -19,7 +19,7 @@
 
 <img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
-### 👩‍💻 About Me
+### About Me
 
 - 🎓 Junior Web Developer passionate about creating impactful web experiences
 - 🧠 Currently learning: **React**, **Flutter**, **Python**
@@ -31,7 +31,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -70,7 +70,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <div align="center">
 
