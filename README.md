@@ -1,7 +1,7 @@
 <div align="center">
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=header" width="100%"/>
 <br/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=header" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=13&duration=1&pause=999999&color=C9A8E0&center=true&vCenter=true&width=750&lines=%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7" alt="" />
 
 <br/>
@@ -250,5 +250,6 @@ Reflects my work, aesthetic and approach.
 <sub>Designed with intention &nbsp;·&nbsp; Built with precision &nbsp;·&nbsp; Siamsell © 2026</sub>
 
 <br/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=header" width="100%"/>
 </div>
