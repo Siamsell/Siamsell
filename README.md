@@ -1,119 +1,135 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Siham%20Sellami&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Web%20Engineer%20&descAlignY=60&descAlign=50" width="100%"/>
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Siham+%F0%9F%91%8B;Junior+Web+Engineer+%F0%9F%9A%80;AI+%26+Deep+Learning+Explorer+%F0%9F%A7%A0;Building+the+future%2C+one+commit+at+a+time+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=52&duration=3000&pause=2000&color=9B72CF&center=true&vCenter=true&width=700&lines=Sellami+Siham" alt="Name" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=20&duration=2500&pause=1500&color=C9A8E0&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Deep+Learning;Building+elegant+solutions" alt="Title" />
 
 <br/>
 
-<!-- Profile views & social badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=Siamsell&color=6ee7f7&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siham_Sellami-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sellami-siham-a5b092333)
-[![Portfolio](https://portfolio-five-delta-oh0wzbn380.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-sihamsella9@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sihamsella9@gmail.com)
-
-</div>
-
----
-
-
-
-### About Me
-
-- 🎓 Junior Web Developer passionate about creating impactful web experiences
-- 🧠 Currently learning: **React**, **Flutter**, **Python**
-- 🤖 Deep interest in **AI**, **GAN models**, and **Medical Imaging**
-- 💡 I love turning complex ideas into elegant digital solutions
-- 📍 Based in Algeria
-
-<br clear="right"/>
-
----
-
-### Tech Stack
-
-<div align="center">
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Backend & Runtime**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**AI & Data Science**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-### Featured Projects
-
-<div align="center">
-
-| Project | Description | Link |
-|---------|-------------|------|
-|  **Medical Image GAN** | Final Year Project – Deep Learning model for medical image generation using GANs | [![GitHub](https://img.shields.io/badge/Code-black?style=flat-square&logo=github)](https://github.com/Siamsell/medicale_IMG-with-deepLearning_model-gan) [![Live](https://img.shields.io/badge/Live-6EE7F7?style=flat-square&logo=netlify&logoColor=black)](https://medical-image-gan.netlify.app/) |
-|  **Purchase Request System** | Management system for ANABIB enterprise | 🏢 Internal |
-|  **Academy Platform** | Online learning and education platform | [![Live](https://img.shields.io/badge/Live-6EE7F7?style=flat-square&logo=github-pages&logoColor=black)](https://siamsell.github.io/Academy-Platform/) |
-|  **PostgreSQL Study** | Hands-on PostgreSQL exploration project | [![Live](https://img.shields.io/badge/Live-6EE7F7?style=flat-square&logo=github-pages&logoColor=black)](https://siamsell.github.io/rnc/) |
-|  **Ramadan Website** | Cultural themed seasonal web project | [![Live](https://img.shields.io/badge/Live-6EE7F7?style=flat-square&logo=vercel&logoColor=black)](https://ramadan-pied.vercel.app/) |
-|  **Personal Portfolio** | My personal portfolio website | [![Live](https://img.shields.io/badge/Visit-6EE7F7?style=flat-square&logo=google-chrome&logoColor=black)](https://siamsell.github.io/portfolio/) |
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Siamsell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siamsell&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Siamsell&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-
-### 📫 Me contacter / Contact Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sellami-siham-a5b092333)
-[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sihamsella9@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6EE7F7?style=for-the-badge&logo=google-chrome&logoColor=black)](https://siamsell.github.io/portfolio/)
+```
+  ∙ Boumerdes, Algeria   ∙ Available for projects   ∙ 4+ years experience
+```
 
 <br/>
 
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70" alt="wave"/>
-
-**Thanks for visiting my profile! / Merci de visiter mon profil !** 🌟
+[![](https://img.shields.io/badge/—_LinkedIn-9B72CF?style=flat-square&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/sellami-siham-a5b092333)
+[![](https://img.shields.io/badge/—_Portfolio-C9A8E0?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-five-delta-oh0wzbn380.vercel.app/)
+[![](https://img.shields.io/badge/—_Email-9B72CF?style=flat-square&logo=gmail&logoColor=white)](mailto:sihamsella9@gmail.com)
 
 </div>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=13&duration=1&pause=999999&color=C9A8E0&center=true&vCenter=true&width=700&lines=++++++++++FULL+STACK++++++++++++++++AI+%26+DEEP+LEARNING++++++++++++++++PROBLEM+SOLVER" />
+</div>
+
+<br/>
+
+I am a creative full-stack developer building modern web and mobile experiences.  
+From enterprise systems to AI-powered platforms — I bring ideas to life with clean code and thoughtful design.  
+Currently focused on **GAN models** for medical imaging as my final year project.
+
+<br/>
+
+---
+
+<br/>
+
+### Stack
+
+<div align="center">
+
+`React` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `Express` &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; `Java` &nbsp;·&nbsp; `Flutter`
+
+`PyTorch` &nbsp;·&nbsp; `TensorFlow` &nbsp;·&nbsp; `Deep Learning` &nbsp;·&nbsp; `GAN Models`
+
+`MySQL` &nbsp;·&nbsp; `PostgreSQL` &nbsp;·&nbsp; `SQLite` &nbsp;·&nbsp; `Git`
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+### Selected Work
+
+<br/>
+
+**Medical Image GAN** &nbsp;—&nbsp; *Final Year Project*
+> Deep learning model for synthetic medical image generation using Generative Adversarial Networks.
+>
+> [![Code](https://img.shields.io/badge/Code-9B72CF?style=flat-square&logo=github&logoColor=white)](https://github.com/Siamsell/medicale_IMG-with-deepLearning_model-gan) &nbsp; [![Live](https://img.shields.io/badge/Live-C9A8E0?style=flat-square&logo=netlify&logoColor=white)](https://medical-image-gan.netlify.app/)
+
+<br/>
+
+**Purchase Request System** &nbsp;—&nbsp; *Enterprise*
+> Internal management system built for ANABIB. Handles procurement workflow end-to-end.
+>
+> `Private — Internal Deployment`
+
+<br/>
+
+**Academy Platform** &nbsp;—&nbsp; *Education*
+> Online learning platform with course management and student progress tracking.
+>
+> [![Live](https://img.shields.io/badge/Live-C9A8E0?style=flat-square&logo=github-pages&logoColor=white)](https://siamsell.github.io/Academy-Platform/)
+
+<br/>
+
+**Personal Portfolio** &nbsp;—&nbsp; *Identity*
+> Designed and built from scratch. Reflects my work, aesthetic, and technical approach.
+>
+> [![Visit](https://img.shields.io/badge/Visit-9B72CF?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-five-delta-oh0wzbn380.vercel.app/)
+
+<br/>
+
+---
+
+<br/>
+
+### GitHub
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Siamsell&show_icons=true&hide_border=true&bg_color=00000000&title_color=9B72CF&text_color=C9A8E0&icon_color=9B72CF&include_all_commits=true&count_private=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siamsell&layout=compact&hide_border=true&bg_color=00000000&title_color=9B72CF&text_color=C9A8E0&langs_count=6"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Siamsell&hide_border=true&background=00000000&ring=9B72CF&fire=C9A8E0&currStreakLabel=9B72CF&sideLabels=C9A8E0&dates=9B72CF&stroke=9B72CF"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=16&duration=1&pause=999999&color=9B72CF&center=true&vCenter=true&width=500&lines=Let%27s+build+something+remarkable." />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-9B72CF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sellami-siham-a5b092333)
+&nbsp;
+[![Email](https://img.shields.io/badge/Send_an_Email-C9A8E0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sihamsella9@gmail.com)
+
+<br/><br/>
+
+<sub>Designed with intention &nbsp;·&nbsp; Built with precision &nbsp;·&nbsp; Siamsell © 2026</sub>
+
+</div>
