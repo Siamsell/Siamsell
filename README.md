@@ -1,30 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D8B4FE,50:9D4EDD,100:D8B4FE&height=2" width="30%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:93B4F5,50:3A6FE0,100:93B4F5&height=2" width="30%" alt=""/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=54&duration=2500&pause=999999&repeat=false&color=B14AED&center=true&vCenter=true&width=800&height=90&lines=Siham+Sellami" alt="Siham Sellami" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=54&duration=2500&pause=999999&repeat=false&color=2F66E0&center=true&vCenter=true&width=800&height=90&lines=Siham+Sellami" alt="Siham Sellami" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=14&duration=1&pause=999999&color=9D4EDD&center=true&vCenter=true&width=800&height=30&lines=S+O+F+T+W+A+R+E++E+N+G+I+N+E+E+R++I+N++T+H+E++M+A+K+I+N+G" alt="Software Engineer in the making" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=14&duration=1&pause=999999&color=3A6FE0&center=true&vCenter=true&width=800&height=30&lines=S+O+F+T+W+A+R+E++E+N+G+I+N+E+E+R++I+N++T+H+E++M+A+K+I+N+G" alt="Software Engineer in the making" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D8B4FE,50:9D4EDD,100:D8B4FE&height=2" width="30%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:93B4F5,50:3A6FE0,100:93B4F5&height=2" width="30%" alt=""/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&italic=true&size=26&duration=3200&pause=1400&color=9D4EDD&center=true&vCenter=true&width=800&lines=Build+it+reliable.+Make+it+elegant.;Architecture+%C2%B7+Distributed+Systems+%C2%B7+AI;Master%27s+in+Software+Engineering+%C2%B7+UMBB" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&italic=true&size=26&duration=3200&pause=1400&color=3A6FE0&center=true&vCenter=true&width=800&lines=Build+it+reliable.+Make+it+elegant.;Architecture+%C2%B7+Distributed+Systems+%C2%B7+AI;Master%27s+in+Software+Engineering+%C2%B7+UMBB" alt="Tagline" />
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B1AA8?style=for-the-badge&logo=linkedin&logoColor=F3EBFA)](https://www.linkedin.com/in/sellami-siham-a5b092333)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=google-chrome&logoColor=F3EBFA)](https://portfolio-five-delta-oh0wzbn380.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-9D4EDD?style=for-the-badge&logo=gmail&logoColor=F3EBFA)](mailto:sihamsella9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B2A6F?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/sellami-siham-a5b092333)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E40AF?style=for-the-badge&logo=google-chrome&logoColor=FFFFFF)](https://portfolio-five-delta-oh0wzbn380.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:sihamsella9@gmail.com)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D8B4FE,50:9D4EDD,100:D8B4FE&height=2" width="55%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:93B4F5,50:3A6FE0,100:93B4F5&height=2" width="55%" alt=""/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=19&duration=1&pause=999999&color=9D4EDD&center=true&vCenter=true&width=600&lines=I+%C2%B7+A+B+O+U+T" alt="I · About" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=19&duration=1&pause=999999&color=3A6FE0&center=true&vCenter=true&width=600&lines=I+%C2%B7+A+B+O+U+T" alt="I · About" />
 
 </div>
 
@@ -48,11 +48,11 @@ Currently completing a Master's in Software Engineering at UMBB, Boumerdès.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D8B4FE,50:9D4EDD,100:D8B4FE&height=2" width="55%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:93B4F5,50:3A6FE0,100:93B4F5&height=2" width="55%" alt=""/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=19&duration=1&pause=999999&color=9D4EDD&center=true&vCenter=true&width=600&lines=II+%C2%B7+S+E+L+E+C+T+E+D++W+O+R+K" alt="II · Selected work" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=19&duration=1&pause=999999&color=3A6FE0&center=true&vCenter=true&width=600&lines=II+%C2%B7+S+E+L+E+C+T+E+D++W+O+R+K" alt="II · Selected work" />
 
 </div>
 
@@ -60,7 +60,7 @@ Currently completing a Master's in Software Engineering at UMBB, Boumerdès.
 
 <table align="center">
 <tr>
-<td width="90" align="center" valign="top"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B1AA8,100:B14AED&height=90&text=01&fontSize=38&fontColor=F3EBFA&fontAlignY=52" width="90" alt="01"/></td>
+<td width="90" align="center" valign="top"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B2A6F,100:2F66E0&height=90&text=01&fontSize=38&fontColor=FFFFFF&fontAlignY=52" width="90" alt="01"/></td>
 <td valign="top">
 
 ### Distributed Microservices Platform
@@ -70,12 +70,12 @@ Six service instances deployed across nine servers, with service discovery, heal
 
 `Node.js` · `Traefik` · `Consul` · `RabbitMQ` · `MySQL` · `Docker`
 
-[![Code](https://img.shields.io/badge/Source_code-7B2CBF?style=flat-square&logo=github&logoColor=white)](https://github.com/Siamsell/NOM-DU-DEPOT-MICROSERVICES)
+[![Code](https://img.shields.io/badge/Source_code-1E40AF?style=flat-square&logo=github&logoColor=white)](https://github.com/Siamsell/NOM-DU-DEPOT-MICROSERVICES)
 
 </td>
 </tr>
 <tr>
-<td width="90" align="center" valign="top"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B1AA8,100:B14AED&height=90&text=02&fontSize=38&fontColor=F3EBFA&fontAlignY=52" width="90" alt="02"/></td>
+<td width="90" align="center" valign="top"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B2A6F,100:2F66E0&height=90&text=02&fontSize=38&fontColor=FFFFFF&fontAlignY=52" width="90" alt="02"/></td>
 <td valign="top">
 
 ### UMBB Exam Management System
@@ -85,13 +85,13 @@ A web application that generates exam schedules automatically while respecting w
 
 `Python` · `Streamlit` · `PostgreSQL (Neon)` · `Plotly` · `Pandas` · `SHA-256`
 
-[![Demo](https://img.shields.io/badge/Watch_demo-9D4EDD?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/vjGq6zdSCTw)
-[![More](https://img.shields.io/badge/Project_page-B14AED?style=flat-square&logo=google-chrome&logoColor=white)](https://siamsell.github.io/bda/)
+[![Demo](https://img.shields.io/badge/Watch_demo-2563EB?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/vjGq6zdSCTw)
+[![More](https://img.shields.io/badge/Project_page-3B82F6?style=flat-square&logo=google-chrome&logoColor=white)](https://siamsell.github.io/bda/)
 
 </td>
 </tr>
 <tr>
-<td width="90" align="center" valign="top"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B1AA8,100:B14AED&height=90&text=03&fontSize=38&fontColor=F3EBFA&fontAlignY=52" width="90" alt="03"/></td>
+<td width="90" align="center" valign="top"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B2A6F,100:2F66E0&height=90&text=03&fontSize=38&fontColor=FFFFFF&fontAlignY=52" width="90" alt="03"/></td>
 <td valign="top">
 
 ### Medical Image GAN · Final Year Project
@@ -101,13 +101,13 @@ A GAN-based pipeline that generates high-resolution, anatomically accurate CT im
 
 `Python` · `PyTorch` · `DCGAN` · `StyleGAN3`
 
-[![Code](https://img.shields.io/badge/Source_code-7B2CBF?style=flat-square&logo=github&logoColor=white)](https://github.com/Siamsell/medicale_IMG-with-deepLearning_model-gan)
-[![Live](https://img.shields.io/badge/Live_demo-B14AED?style=flat-square&logo=netlify&logoColor=white)](https://medical-image-gan.netlify.app/)
+[![Code](https://img.shields.io/badge/Source_code-1E40AF?style=flat-square&logo=github&logoColor=white)](https://github.com/Siamsell/medicale_IMG-with-deepLearning_model-gan)
+[![Live](https://img.shields.io/badge/Live_demo-3B82F6?style=flat-square&logo=netlify&logoColor=white)](https://medical-image-gan.netlify.app/)
 
 </td>
 </tr>
 <tr>
-<td width="90" align="center" valign="top"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B1AA8,100:B14AED&height=90&text=04&fontSize=38&fontColor=F3EBFA&fontAlignY=52" width="90" alt="04"/></td>
+<td width="90" align="center" valign="top"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B2A6F,100:2F66E0&height=90&text=04&fontSize=38&fontColor=FFFFFF&fontAlignY=52" width="90" alt="04"/></td>
 <td valign="top">
 
 ### Fake News Detection
@@ -117,12 +117,12 @@ A text classifier that detects misinformation. The pipeline covers tokenization,
 
 `Python` · `Scikit-learn` · `NLTK` · `Pandas` · `Flask`
 
-[![Code](https://img.shields.io/badge/Source_code-7B2CBF?style=flat-square&logo=github&logoColor=white)](https://github.com/Siamsell/NOM-DU-DEPOT-FAKE-NEWS)
+[![Code](https://img.shields.io/badge/Source_code-1E40AF?style=flat-square&logo=github&logoColor=white)](https://github.com/Siamsell/NOM-DU-DEPOT-FAKE-NEWS)
 
 </td>
 </tr>
 <tr>
-<td width="90" align="center" valign="top"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B1AA8,100:B14AED&height=90&text=05&fontSize=38&fontColor=F3EBFA&fontAlignY=52" width="90" alt="05"/></td>
+<td width="90" align="center" valign="top"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B2A6F,100:2F66E0&height=90&text=05&fontSize=38&fontColor=FFFFFF&fontAlignY=52" width="90" alt="05"/></td>
 <td valign="top">
 
 ### Purchase Request System · ANABIB
@@ -132,12 +132,12 @@ An internal ERP module for procurement workflow: request submission, approval, t
 
 `Node.js` · `Express` · `MySQL` · `AJAX` · `Bootstrap`
 
-[![Demo](https://img.shields.io/badge/Watch_demo-9D4EDD?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/E2xfP2s8YY4)
+[![Demo](https://img.shields.io/badge/Watch_demo-2563EB?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/E2xfP2s8YY4)
 
 </td>
 </tr>
 <tr>
-<td width="90" align="center" valign="top"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B1AA8,100:B14AED&height=90&text=06&fontSize=38&fontColor=F3EBFA&fontAlignY=52" width="90" alt="06"/></td>
+<td width="90" align="center" valign="top"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B2A6F,100:2F66E0&height=90&text=06&fontSize=38&fontColor=FFFFFF&fontAlignY=52" width="90" alt="06"/></td>
 <td valign="top">
 
 ### Academy Platform
@@ -145,12 +145,12 @@ An internal ERP module for procurement workflow: request submission, approval, t
 
 An online learning platform with courses and student progress tracking.
 
-[![Live](https://img.shields.io/badge/Live_demo-B14AED?style=flat-square&logo=github-pages&logoColor=white)](https://siamsell.github.io/Academy-Platform/)
+[![Live](https://img.shields.io/badge/Live_demo-3B82F6?style=flat-square&logo=github-pages&logoColor=white)](https://siamsell.github.io/Academy-Platform/)
 
 </td>
 </tr>
 <tr>
-<td width="90" align="center" valign="top"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B1AA8,100:B14AED&height=90&text=07&fontSize=38&fontColor=F3EBFA&fontAlignY=52" width="90" alt="07"/></td>
+<td width="90" align="center" valign="top"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B2A6F,100:2F66E0&height=90&text=07&fontSize=38&fontColor=FFFFFF&fontAlignY=52" width="90" alt="07"/></td>
 <td valign="top">
 
 ### Personal Portfolio
@@ -158,7 +158,7 @@ An online learning platform with courses and student progress tracking.
 
 My work, my aesthetic and my approach in one place.
 
-[![Visit](https://img.shields.io/badge/Visit_site-B14AED?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-five-delta-oh0wzbn380.vercel.app/)
+[![Visit](https://img.shields.io/badge/Visit_site-3B82F6?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-five-delta-oh0wzbn380.vercel.app/)
 
 </td>
 </tr>
@@ -168,11 +168,11 @@ My work, my aesthetic and my approach in one place.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D8B4FE,50:9D4EDD,100:D8B4FE&height=2" width="55%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:93B4F5,50:3A6FE0,100:93B4F5&height=2" width="55%" alt=""/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=19&duration=1&pause=999999&color=9D4EDD&center=true&vCenter=true&width=600&lines=III+%C2%B7+W+A+T+C+H++I+T++R+U+N" alt="III · Watch it run" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=19&duration=1&pause=999999&color=3A6FE0&center=true&vCenter=true&width=600&lines=III+%C2%B7+W+A+T+C+H++I+T++R+U+N" alt="III · Watch it run" />
 
 <br/><br/>
 
@@ -191,11 +191,11 @@ My work, my aesthetic and my approach in one place.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D8B4FE,50:9D4EDD,100:D8B4FE&height=2" width="55%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:93B4F5,50:3A6FE0,100:93B4F5&height=2" width="55%" alt=""/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=19&duration=1&pause=999999&color=9D4EDD&center=true&vCenter=true&width=600&lines=IV+%C2%B7+J+O+U+R+N+E+Y" alt="IV · Journey" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=19&duration=1&pause=999999&color=3A6FE0&center=true&vCenter=true&width=600&lines=IV+%C2%B7+J+O+U+R+N+E+Y" alt="IV · Journey" />
 
 <br/><br/>
 
@@ -209,11 +209,11 @@ My work, my aesthetic and my approach in one place.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D8B4FE,50:9D4EDD,100:D8B4FE&height=2" width="55%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:93B4F5,50:3A6FE0,100:93B4F5&height=2" width="55%" alt=""/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=19&duration=1&pause=999999&color=9D4EDD&center=true&vCenter=true&width=600&lines=V+%C2%B7+A+R+C+H+I+T+E+C+T+U+R+E" alt="V · Architecture" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=19&duration=1&pause=999999&color=3A6FE0&center=true&vCenter=true&width=600&lines=V+%C2%B7+A+R+C+H+I+T+E+C+T+U+R+E" alt="V · Architecture" />
 
 <br/>
 
@@ -231,11 +231,11 @@ My work, my aesthetic and my approach in one place.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D8B4FE,50:9D4EDD,100:D8B4FE&height=2" width="55%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:93B4F5,50:3A6FE0,100:93B4F5&height=2" width="55%" alt=""/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=19&duration=1&pause=999999&color=9D4EDD&center=true&vCenter=true&width=600&lines=VI+%C2%B7+T+O+O+L+B+O+X" alt="VI · Toolbox" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=19&duration=1&pause=999999&color=3A6FE0&center=true&vCenter=true&width=600&lines=VI+%C2%B7+T+O+O+L+B+O+X" alt="VI · Toolbox" />
 
 <br/>
 
@@ -251,30 +251,30 @@ My work, my aesthetic and my approach in one place.
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Siamsell&show_icons=true&hide_border=true&bg_color=00000000&title_color=B14AED&text_color=9D4EDD&icon_color=B14AED&include_all_commits=true&count_private=true" height="160" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Siamsell&show_icons=true&hide_border=true&bg_color=00000000&title_color=2F66E0&text_color=3A6FE0&icon_color=2F66E0&include_all_commits=true&count_private=true" height="160" alt="GitHub stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siamsell&layout=compact&hide_border=true&bg_color=00000000&title_color=B14AED&text_color=9D4EDD&langs_count=6" height="160" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siamsell&layout=compact&hide_border=true&bg_color=00000000&title_color=2F66E0&text_color=3A6FE0&langs_count=6" height="160" alt="Top languages" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D8B4FE,50:9D4EDD,100:D8B4FE&height=2" width="55%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:93B4F5,50:3A6FE0,100:93B4F5&height=2" width="55%" alt=""/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=19&duration=1&pause=999999&color=9D4EDD&center=true&vCenter=true&width=600&lines=VII+%C2%B7+C+O+N+T+A+C+T" alt="VII · Contact" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=19&duration=1&pause=999999&color=3A6FE0&center=true&vCenter=true&width=600&lines=VII+%C2%B7+C+O+N+T+A+C+T" alt="VII · Contact" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&italic=true&size=22&duration=1&pause=999999&color=9D4EDD&center=true&vCenter=true&width=600&lines=Let%27s+build+something+remarkable." alt="Let's build something remarkable" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&italic=true&size=22&duration=1&pause=999999&color=3A6FE0&center=true&vCenter=true&width=600&lines=Let%27s+build+something+remarkable." alt="Let's build something remarkable" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-5B1AA8?style=for-the-badge&logo=linkedin&logoColor=F3EBFA)](https://www.linkedin.com/in/sellami-siham-a5b092333)
-[![Email](https://img.shields.io/badge/Send_an_email-9D4EDD?style=for-the-badge&logo=gmail&logoColor=F3EBFA)](mailto:sihamsella9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0B2A6F?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/sellami-siham-a5b092333)
+[![Email](https://img.shields.io/badge/Send_an_email-2563EB?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:sihamsella9@gmail.com)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D8B4FE,50:9D4EDD,100:D8B4FE&height=2" width="55%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:93B4F5,50:3A6FE0,100:93B4F5&height=2" width="55%" alt=""/>
 
 <br/>
 
