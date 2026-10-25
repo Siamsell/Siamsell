@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0716,50:3B1D6E,100:9B72CF&height=260&section=header&text=Siham%20Sellami&fontSize=58&fontColor=F3EBFA&fontAlignY=42&desc=Software%20Engineer%20in%20the%20making&descSize=18&descColor=C9A8E0&descAlignY=62&animation=fadeIn" width="100%" alt="Siham Sellami"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0716,50:9B72CF,100:0D0716&height=2" width="30%" alt=""/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=54&duration=2500&pause=999999&repeat=false&color=9B72CF&center=true&vCenter=true&width=800&height=90&lines=Siham+Sellami" alt="Siham Sellami" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=14&duration=1&pause=999999&color=B795E8&center=true&vCenter=true&width=800&height=30&lines=S+O+F+T+W+A+R+E++E+N+G+I+N+E+E+R++I+N++T+H+E++M+A+K+I+N+G" alt="Software Engineer in the making" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0716,50:9B72CF,100:0D0716&height=2" width="30%" alt=""/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&italic=true&size=26&duration=3200&pause=1400&color=B795E8&center=true&vCenter=true&width=800&lines=Build+it+reliable.+Make+it+elegant.;Architecture+%C2%B7+Distributed+Systems+%C2%B7+AI;Master%27s+in+Software+Engineering+%C2%B7+UMBB" alt="Tagline" />
 
@@ -266,6 +274,10 @@ My work, my aesthetic and my approach in one place.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0716,50:3B1D6E,100:9B72CF&height=120&section=footer&text=Siamsell%20%C2%A9%202026&fontSize=15&fontColor=C9A8E0&fontAlignY=72" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0716,50:9B72CF,100:0D0716&height=2" width="55%" alt=""/>
+
+<br/>
+
+<sub>Siamsell &nbsp;·&nbsp; © 2026</sub>
 
 </div>
