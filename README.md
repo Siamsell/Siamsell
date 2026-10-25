@@ -1,31 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=13&duration=1&pause=999999&color=C9A8E0&center=true&vCenter=true&width=750&lines=%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0F2E,45:6D3FC0,100:C9A8E0&height=230&section=header&text=Sellami%20Siham&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%C2%B7%20Distributed%20Systems%20%C2%B7%20AI&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Sellami Siham"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=58&duration=3500&pause=2500&color=9B72CF&center=true&vCenter=true&width=750&lines=Sellami+Siham" alt="Sellami Siham" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=21&duration=2500&pause=1500&color=C9A8E0&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Full+Stack+Developer;Microservices+%26+Distributed+Systems;AI+%26+Deep+Learning+Explorer" alt="Title" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=400&size=24&duration=2800&pause=1200&color=9B72CF&center=true&vCenter=true&width=750&lines=Software+Engineering+Master%27s+Student;Full+Stack+Developer;Microservices+%26+Distributed+Systems;AI+%26+Deep+Learning+Explorer;Turning+ideas+into+reliable+products" alt="Title" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=13&duration=1&pause=999999&color=C9A8E0&center=true&vCenter=true&width=750&lines=%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7" alt="" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-9B72CF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sellami-siham-a5b092333)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D3FC0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sellami-siham-a5b092333)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-C9A8E0?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-five-delta-oh0wzbn380.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9B72CF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-five-delta-oh0wzbn380.vercel.app/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-9B72CF?style=flat-square&logo=gmail&logoColor=white)](mailto:sihamsella9@gmail.com)
-
-<br/>
+[![Email](https://img.shields.io/badge/Email-C9A8E0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sihamsella9@gmail.com)
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
@@ -42,7 +31,15 @@
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=16&duration=3000&pause=1000&color=C9A8E0&center=true&vCenter=true&multiline=false&width=750&lines=Master%27s+student+in+Software+Engineering+%E2%80%94+UMBB%2C+Boumerdes.;I+design+reliable+web+apps+and+distributed+architectures.;Currently+deep+in+GAN+models+for+medical+imaging." alt="About" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0F2E,100:6D3FC0&height=56&section=header&text=%E2%9C%A6%20%20ABOUT%20ME%20%20%E2%9C%A6&fontSize=22&fontColor=ffffff&fontAlignY=52" width="70%" alt="About me"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=17&duration=3000&pause=1000&color=C9A8E0&center=true&vCenter=true&width=780&lines=Master%27s+student+in+Software+Engineering+%E2%80%94+UMBB%2C+Boumerdes.;I+design+reliable+web+apps+and+distributed+architectures.;Currently+deep+in+GAN+models+for+medical+imaging." alt="About" />
 </div>
 
 <br/>
@@ -70,12 +67,10 @@
 
 <br/>
 
----
-
-<br/>
-
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=400&size=22&duration=1&pause=999999&color=9B72CF&center=true&vCenter=true&width=500&lines=%E2%80%95%E2%80%95+SELECTED+WORK+%E2%80%95%E2%80%95" alt="Work" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0F2E,100:6D3FC0&height=56&section=header&text=%E2%9C%A6%20%20SELECTED%20WORK%20%20%E2%9C%A6&fontSize=22&fontColor=ffffff&fontAlignY=52" width="70%" alt="Selected work"/>
+
 </div>
 
 <br/>
@@ -85,79 +80,99 @@
 <td width="50%" valign="top">
 
 ```
-┌─ 01 ────────────────────────────────┐
-│  Distributed Microservices          │
-│  Architecture · Traefik · RabbitMQ  │
-└─────────────────────────────────────┘
+┌─ 01 ──────────────────────────────┐
+│  Distributed Microservices        │
+│  Architecture · Traefik · RabbitMQ│
+└───────────────────────────────────┘
 ```
 
 6 service instances across 9 servers: service discovery, load balancing, fault tolerance and event-driven sync between independent databases.
 
 `Node.js` `Consul` `MySQL` `Docker`
 
-[![Code](https://img.shields.io/badge/Code-9B72CF?style=flat-square&logo=github&logoColor=white)](https://github.com/Siamsell/NOM-DU-DEPOT-MICROSERVICES)
+[![Code](https://img.shields.io/badge/Code-6D3FC0?style=flat-square&logo=github&logoColor=white)](https://github.com/Siamsell/NOM-DU-DEPOT-MICROSERVICES)
 
 </td>
 <td width="50%" valign="top">
 
 ```
-┌─ 02 ────────────────────────────────┐
-│  Medical Image GAN                  │
-│  Final Year Project · PyTorch       │
-└─────────────────────────────────────┘
+┌─ 02 ──────────────────────────────┐
+│  UMBB Exam Management System      │
+│  Streamlit · PostgreSQL · Neon    │
+└───────────────────────────────────┘
+```
+
+Exam scheduling web app with role-based access, automatic timetable generation under smart constraints, validation workflow and an interactive KPI dashboard.
+
+`Python` `Streamlit` `PostgreSQL` `Plotly` `Pandas`
+
+[![Demo](https://img.shields.io/badge/Demo_Video-C9A8E0?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/vjGq6zdSCTw)
+[![More](https://img.shields.io/badge/More_Info-9B72CF?style=flat-square&logo=google-chrome&logoColor=white)](https://siamsell.github.io/bda/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+```
+┌─ 03 ──────────────────────────────┐
+│  Medical Image GAN                │
+│  Final Year Project · PyTorch     │
+└───────────────────────────────────┘
 ```
 
 GAN pipeline (DCGAN, StyleGAN3) generating high-resolution, anatomically accurate CT images for diagnostic research.
 
 `Python` `PyTorch`
 
-[![Code](https://img.shields.io/badge/Code-9B72CF?style=flat-square&logo=github&logoColor=white)](https://github.com/Siamsell/medicale_IMG-with-deepLearning_model-gan)
+[![Code](https://img.shields.io/badge/Code-6D3FC0?style=flat-square&logo=github&logoColor=white)](https://github.com/Siamsell/medicale_IMG-with-deepLearning_model-gan)
 [![Live](https://img.shields.io/badge/Live-C9A8E0?style=flat-square&logo=netlify&logoColor=white)](https://medical-image-gan.netlify.app/)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ```
-┌─ 03 ────────────────────────────────┐
-│  Fake News Detection                │
-│  NLP · Scikit-learn · Flask         │
-└─────────────────────────────────────┘
+┌─ 04 ──────────────────────────────┐
+│  Fake News Detection              │
+│  NLP · Scikit-learn · Flask       │
+└───────────────────────────────────┘
 ```
 
 Misinformation classifier with a full NLP preprocessing pipeline; SVM, Naive Bayes and Logistic Regression compared.
 
 `Python` `NLTK` `Pandas`
 
-[![Code](https://img.shields.io/badge/Code-9B72CF?style=flat-square&logo=github&logoColor=white)](https://github.com/Siamsell/NOM-DU-DEPOT-FAKE-NEWS)
-
-</td>
-<td width="50%" valign="top">
-
-```
-┌─ 04 ────────────────────────────────┐
-│  Purchase Request System            │
-│  Enterprise · ANABIB                │
-└─────────────────────────────────────┘
-```
-
-ERP procurement workflow: request submission, approval, tracking and role-based access.
-
-`Node.js` `Express` `MySQL` `Bootstrap`
-
-`Private — Internal Deployment`
+[![Code](https://img.shields.io/badge/Code-6D3FC0?style=flat-square&logo=github&logoColor=white)](https://github.com/Siamsell/NOM-DU-DEPOT-FAKE-NEWS)
 
 </td>
 </tr>
+</table>
+
+<table align="center" border="0">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ```
-┌─ 05 ────────────────────────────────┐
-│  Academy Platform                   │
-│  Education · Full Stack             │
-└─────────────────────────────────────┘
+┌─ 05 ──────────────────────┐
+│  Purchase Request         │
+│  Enterprise · ANABIB      │
+└───────────────────────────┘
+```
+
+ERP procurement workflow with approval, tracking and role-based access.
+
+`Node.js` `Express` `MySQL`
+
+[![Demo](https://img.shields.io/badge/Demo_Video-C9A8E0?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/E2xfP2s8YY4)
+
+</td>
+<td width="33%" valign="top">
+
+```
+┌─ 06 ──────────────────────┐
+│  Academy Platform         │
+│  Education · Full Stack   │
+└───────────────────────────┘
 ```
 
 Online learning platform with courses and student progress tracking.
@@ -165,16 +180,16 @@ Online learning platform with courses and student progress tracking.
 [![Live](https://img.shields.io/badge/Live-9B72CF?style=flat-square&logo=github-pages&logoColor=white)](https://siamsell.github.io/Academy-Platform/)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ```
-┌─ 06 ────────────────────────────────┐
-│  Personal Portfolio                 │
-│  Identity · Design                  │
-└─────────────────────────────────────┘
+┌─ 07 ──────────────────────┐
+│  Personal Portfolio       │
+│  Identity · Design        │
+└───────────────────────────┘
 ```
 
-Designed and built from scratch. Reflects my work, aesthetic and approach.
+Designed and built from scratch. Reflects my work and approach.
 
 [![Visit](https://img.shields.io/badge/Visit-C9A8E0?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-five-delta-oh0wzbn380.vercel.app/)
 
@@ -184,17 +199,33 @@ Designed and built from scratch. Reflects my work, aesthetic and approach.
 
 <br/>
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0F2E,100:6D3FC0&height=56&section=header&text=%E2%9C%A6%20%20FEATURED%20DEMO%20%20%E2%9C%A6&fontSize=22&fontColor=ffffff&fontAlignY=52" width="70%" alt="Featured demo"/>
+
+<br/><br/>
+
+**UMBB Exam Management System** — full walkthrough
+
+[![UMBB Exam Management System demo](https://img.youtube.com/vi/vjGq6zdSCTw/maxresdefault.jpg)](https://youtu.be/vjGq6zdSCTw)
+
+<sub>Secure multi-role authentication · automatic exam timetable generation · EDT validation · interactive dashboard</sub>
 
 <br/>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=400&size=22&duration=1&pause=999999&color=9B72CF&center=true&vCenter=true&width=400&lines=%E2%80%95%E2%80%95+ARCHITECTURE+%E2%80%95%E2%80%95" alt="Architecture" />
+[![Watch](https://img.shields.io/badge/Watch_the_demo-6D3FC0?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/vjGq6zdSCTw)
+&nbsp;
+[![Details](https://img.shields.io/badge/Project_details-C9A8E0?style=for-the-badge&logo=google-chrome&logoColor=white)](https://siamsell.github.io/bda/)
+
 </div>
 
 <br/>
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0F2E,100:6D3FC0&height=56&section=header&text=%E2%9C%A6%20%20ARCHITECTURE%20%20%E2%9C%A6&fontSize=22&fontColor=ffffff&fontAlignY=52" width="70%" alt="Architecture"/>
+
+<br/>
 
 ```
    Client ──► Traefik (gateway · load balancer)
@@ -212,71 +243,61 @@ Designed and built from scratch. Reflects my work, aesthetic and approach.
 
 <br/>
 
----
-
-<br/>
-
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=400&size=22&duration=1&pause=999999&color=9B72CF&center=true&vCenter=true&width=400&lines=%E2%80%95%E2%80%95+STACK+%E2%80%95%E2%80%95" alt="Stack" />
-</div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0F2E,100:6D3FC0&height=56&section=header&text=%E2%9C%A6%20%20TECH%20STACK%20%20%E2%9C%A6&fontSize=22&fontColor=ffffff&fontAlignY=52" width="70%" alt="Tech stack"/>
 
-<div align="center">
+<br/><br/>
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-9B72CF?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-C9A8E0?style=flat-square&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-9B72CF?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-C9A8E0?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6D3FC0?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-9B72CF?style=flat-square&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-6D3FC0?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-9B72CF?style=flat-square&logo=cplusplus&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-9B72CF?style=flat-square&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-C9A8E0?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-9B72CF?style=flat-square&logo=css3&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-6D3FC0?style=flat-square&logo=streamlit&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-9B72CF?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-6D3FC0?style=flat-square&logo=css3&logoColor=white)
 
 **Backend & Architecture**
 
-![Node.js](https://img.shields.io/badge/Node.js-C9A8E0?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-9B72CF?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-C9A8E0?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-9B72CF?style=flat-square&logo=flask&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-C9A8E0?style=flat-square&logo=rabbitmq&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-9B72CF?style=flat-square&logo=traefikproxy&logoColor=white)
-![Consul](https://img.shields.io/badge/Consul-C9A8E0?style=flat-square&logo=consul&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-9B72CF?style=flat-square&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-9B72CF?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-6D3FC0?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-9B72CF?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-6D3FC0?style=flat-square&logo=flask&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-9B72CF?style=flat-square&logo=rabbitmq&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-6D3FC0?style=flat-square&logo=traefikproxy&logoColor=white)
+![Consul](https://img.shields.io/badge/Consul-9B72CF?style=flat-square&logo=consul&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-6D3FC0?style=flat-square&logo=docker&logoColor=white)
 
 **AI & Deep Learning**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-C9A8E0?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-9B72CF?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-C9A8E0?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-9B72CF?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-6D3FC0?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-9B72CF?style=flat-square&logo=scikitlearn&logoColor=white)
 
 **Databases & Tools**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9B72CF?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-C9A8E0?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-9B72CF?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-C9A8E0?style=flat-square&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6D3FC0?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-9B72CF?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-6D3FC0?style=flat-square&logo=sqlite&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-9B72CF?style=flat-square&logo=plotly&logoColor=white)
+![Git](https://img.shields.io/badge/Git-6D3FC0?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-9B72CF?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
 <br/>
 
----
-
-<br/>
-
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=400&size=22&duration=1&pause=999999&color=9B72CF&center=true&vCenter=true&width=400&lines=%E2%80%95%E2%80%95+GITHUB+%E2%80%95%E2%80%95" alt="GitHub" />
-</div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0F2E,100:6D3FC0&height=56&section=header&text=%E2%9C%A6%20%20GITHUB%20%20%E2%9C%A6&fontSize=22&fontColor=ffffff&fontAlignY=52" width="70%" alt="GitHub"/>
 
-<div align="center">
+<br/><br/>
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Siamsell&show_icons=true&hide_border=true&bg_color=00000000&title_color=9B72CF&text_color=C9A8E0&icon_color=9B72CF&include_all_commits=true&count_private=true" />
 &nbsp;
@@ -286,24 +307,20 @@ Designed and built from scratch. Reflects my work, aesthetic and approach.
 
 <br/>
 
----
-
-<br/>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=18&duration=1&pause=999999&color=9B72CF&center=true&vCenter=true&width=600&lines=Let%27s+build+something+remarkable." alt="CTA" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=20&duration=1&pause=999999&color=9B72CF&center=true&vCenter=true&width=600&lines=Let%27s+build+something+remarkable." alt="CTA" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-9B72CF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sellami-siham-a5b092333)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-6D3FC0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sellami-siham-a5b092333)
 &nbsp;
 [![Email](https://img.shields.io/badge/Send_an_Email-C9A8E0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sihamsella9@gmail.com)
 
-<br/><br/>
+<br/>
 
 <sub>Designed with intention &nbsp;·&nbsp; Built with precision &nbsp;·&nbsp; Siamsell © 2026</sub>
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0F2E,45:6D3FC0,100:C9A8E0&height=110&section=footer" width="100%" alt=""/>
+
 </div>
