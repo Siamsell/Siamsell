@@ -63,14 +63,15 @@ Currently completing a Master's in Software Engineering at UMBB, Boumerdès.
 <td width="90" align="center" valign="top"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B2A6F,100:2F66E0&height=90&text=01&fontSize=38&fontColor=FFFFFF&fontAlignY=52" width="90" alt="01"/></td>
 <td valign="top">
 
-### Distributed Microservices Platform
+### iCar · Distributed Microservices Platform
 *Resilient by design.*
 
 Six service instances deployed across nine servers, with service discovery, health monitoring, load balancing and fault tolerance. Services communicate asynchronously through events, and RabbitMQ keeps independent databases in sync while reducing coupling.
 
 `Node.js` · `Traefik` · `Consul` · `RabbitMQ` · `MySQL` · `Docker`
 
-[![Code](https://img.shields.io/badge/Source_code-1E40AF?style=flat-square&logo=github&logoColor=white)](https://github.com/Siamsell/NOM-DU-DEPOT-MICROSERVICES)
+[![Code](https://img.shields.io/badge/Source_code-1E40AF?style=flat-square&logo=github&logoColor=white)](https://github.com/Siamsell/iCar-MicroService)
+[![Demo](https://img.shields.io/badge/Watch_demo-2563EB?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/a9D7mZDcKmA)
 
 </td>
 </tr>
@@ -178,11 +179,15 @@ My work, my aesthetic and my approach in one place.
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
+<a href="https://youtu.be/a9D7mZDcKmA"><img src="https://img.youtube.com/vi/a9D7mZDcKmA/hqdefault.jpg" width="100%" alt="iCar AOS project presentation"/></a>
+<br/><b>iCar · Microservices</b><br/><sub>AOS project presentation</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://youtu.be/vjGq6zdSCTw"><img src="https://img.youtube.com/vi/vjGq6zdSCTw/hqdefault.jpg" width="100%" alt="UMBB Exam Management System demo"/></a>
 <br/><b>UMBB Exam Management System</b><br/><sub>Full walkthrough · scheduling, validation, dashboard</sub>
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 <a href="https://youtu.be/E2xfP2s8YY4"><img src="https://img.youtube.com/vi/E2xfP2s8YY4/hqdefault.jpg" width="100%" alt="ANABIB Purchase Request System demo"/></a>
 <br/><b>Purchase Request System · ANABIB</b><br/><sub>Procurement workflow in action</sub>
 </td>
@@ -227,7 +232,7 @@ My work, my aesthetic and my approach in one place.
                     Consul (discovery · health checks)
 ```
 
-<sub>Simplified view of my Distributed Microservices Platform</sub>
+<sub>Simplified view of my iCar microservices architecture</sub>
 
 <br/>
 
