@@ -70,7 +70,7 @@ Six service instances deployed across nine servers, with service discovery, heal
 
 `Node.js` · `Traefik` · `Consul` · `RabbitMQ` · `MySQL` · `Docker`
 
-[![Code](https://img.shields.io/badge/Source_code-6D3FC0?style=flat-square&logo=github&logoColor=white)](https://github.com/Siamsell/NOM-DU-DEPOT-MICROSERVICES)
+[![Code](https://img.shields.io/badge/Source_code-6D3FC0?style=flat-square&logo=github&logoColor=white)](https://github.com/Siamsell/iCar-MicroService)
 
 </td>
 </tr>
