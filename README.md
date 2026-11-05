@@ -118,7 +118,7 @@ A text classifier that detects misinformation. The pipeline covers tokenization,
 
 `Python` · `Scikit-learn` · `NLTK` · `Pandas` · `Flask`
 
-[![Code](https://img.shields.io/badge/Source_code-1E40AF?style=flat-square&logo=github&logoColor=white)](https://github.com/Siamsell/NOM-DU-DEPOT-FAKE-NEWS)
+[![Code](https://img.shields.io/badge/Source_code-1E40AF?style=flat-square&logo=github&logoColor=white)](https://github.com/Siamsell/ML-Fake-News-Detection)
 
 </td>
 </tr>
