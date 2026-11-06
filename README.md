@@ -149,7 +149,7 @@ An online learning platform with courses and student progress tracking.
 [![Code](https://img.shields.io/badge/Source_code-1E40AF?style=flat-square&logo=github&logoColor=white)](https://github.com/Siamsell/Academy-Platform)
 [![Live](https://img.shields.io/badge/Live_demo-3B82F6?style=flat-square&logo=github-pages&logoColor=white)](https://siamsell.github.io/Academy-Platform/)
 
-
+`java` · `Html` · `MySQL` · `css` · `Bootstrap`
 </td>
 </tr>
 <tr>
