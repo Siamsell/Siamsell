@@ -88,8 +88,7 @@ A web application that generates exam schedules automatically while respecting w
 
 [![Demo](https://img.shields.io/badge/Watch_demo-2563EB?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/vjGq6zdSCTw)
 [![More](https://img.shields.io/badge/Project_page-3B82F6?style=flat-square&logo=google-chrome&logoColor=white)](https://siamsell.github.io/bda/)
-
-[![github](https://github.com/Siamsell/exam_scheduler)
+[![Code](https://img.shields.io/badge/Source_code-1E40AF?style=flat-square&logo=github&logoColor=white)](https://github.com/Siamsell/exam_scheduler)
 
 </td>
 </tr>
