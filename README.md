@@ -89,6 +89,8 @@ A web application that generates exam schedules automatically while respecting w
 [![Demo](https://img.shields.io/badge/Watch_demo-2563EB?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/vjGq6zdSCTw)
 [![More](https://img.shields.io/badge/Project_page-3B82F6?style=flat-square&logo=google-chrome&logoColor=white)](https://siamsell.github.io/bda/)
 
+[![github](https://github.com/Siamsell/exam_scheduler)
+
 </td>
 </tr>
 <tr>
@@ -189,6 +191,7 @@ My work, my aesthetic and my approach in one place.
 </td>
 <td align="center" width="33%">
 <a href="https://youtu.be/E2xfP2s8YY4"><img src="https://img.youtube.com/vi/E2xfP2s8YY4/hqdefault.jpg" width="100%" alt="ANABIB Purchase Request System demo"/></a>
+   
 <br/><b>Purchase Request System · ANABIB</b><br/><sub>Procurement workflow in action</sub>
 </td>
 </tr>
